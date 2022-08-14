@@ -5,7 +5,7 @@ from pageObjects.RMS.Candidate.CreateAccount import CreateAccount
 
 
 class Test_Create_candidate_account:
-    baseURL ="https://non-recurring-qa-rms.seamlesshiring.com/"
+    baseURL =""
     firstname = "Oluwaseun"
     lastname = "Sunday"
     email = "Sunday@seamlesshr.com"
