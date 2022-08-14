@@ -2,7 +2,7 @@ import time
 
 
 class Test_002_Admin_Login:
-    baseURL ="https://non-recurring-qa-rms.seamlesshiring.com/"
+    baseURL = ""
     admin_email = "email@gmail.com"
     admin_password = "password"
 
