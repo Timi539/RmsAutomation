@@ -4,7 +4,7 @@ from pageObjects.RMS.Authentication.CandidateLogin import CandidateLogin
 
 
 class Test_001_Candidate_Login:
-    baseURL ="https://non-recurring-qa-rms.seamlesshiring.com/"
+    baseURL =""
     email = "Dakolo@seamlesshr.com"
     password = "password"
 
