@@ -3,7 +3,7 @@ from selenium import webdriver
 from pageObjects.RMS.AdminManagement.CreateSpecialization import CreateSpecailization
 
 class Test_specialization:
-    baseURL = "https://non-recurring-qa-rms.seamlesshiring.com/"
+    baseURL = ""
     name = "Automation Specialization"
 
 
